@@ -747,3 +747,4 @@ write.csv(RESULTS, paste0(SNPCALLER_NAME,"_Results.csv"), row.names = FALSE)
 # quantile - quantile of the distribution of each metric the data set was filtered at
 # QUAL - value of QUAL corresponding to the given quantile of the QUAL distribution in F2
 # P1.QUAL - value of QUAL corresponding to the given quantile of the QUAL distribution in P1
+
