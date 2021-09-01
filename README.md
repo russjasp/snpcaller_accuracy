@@ -28,7 +28,7 @@ R version 1.4.1106
 
 # Usage
 
-### quantile_filter_code_annotations.R
+### snpcaller_accuracy.R
 
 Call snps with the variant caller of your choice, convert  vcf file to a table (eg, VariantsToTable), and read into R (object "snp_df").
 
@@ -47,7 +47,7 @@ Code outputs a lot of messages as it goes which I was just using to error check 
 
 ## Code
 
-### quantile_filter_code_annotations.R
+### snpcaller_accuracy.R
 As described above
 
 ## Data
