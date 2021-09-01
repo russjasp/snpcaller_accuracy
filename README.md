@@ -52,14 +52,14 @@ As described above
 
 ## Data
 
-### EXAMPLE.table
+### Example_Data.table
 An example snp set. Use this as the input data (object "snp_df").
 
-### EXAMPLE_Results.csv
-I have filtered the EXAMPLE.table using QUAL, DP, GQ.
-I used the target snp values: 50000, 40000, 30000, 20000.
+### Example_Results.csv
+I have filtered the Example_Data.table using QUAL, DP, GQ.
+I used the target snp values: 5000, 2500, 1000.
 
-EXAMPLE_Results.csv contains the results at each level of filtering. Contains the number of sites/genotypes remaining, the error rates, and values for QUAL, DP, GQ at each level of filtering.
+Example_Results.csv contains the results at each level of filtering. Contains the number of sites/genotypes remaining, the error rates, and values for QUAL, DP, GQ at each level of filtering.
 
 
 
