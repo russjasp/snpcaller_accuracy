@@ -60,6 +60,7 @@ I have filtered the Example_Data.table using QUAL, DP, GQ.
 I used the target snp values: 5000, 2500, 1000.
 
 Example_Results.csv contains the results at each level of filtering. Column names are as described:  
+
 Sites - number of sites remaining after filtering  
 GT - number of genotype calls remaining after filtering  
 NA.gt - number of NA genotype calls remaining after filtering  
