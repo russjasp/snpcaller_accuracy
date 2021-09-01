@@ -60,15 +60,15 @@ I have filtered the Example_Data.table using QUAL, DP, GQ.
 I used the target snp values: 5000, 2500, 1000.
 
 Example_Results.csv contains the results at each level of filtering. Column names are as described:  
-Sites - number of sites remaining after filtering 
-GT - number of genotype calls remaining after filtering 
+Sites - number of sites remaining after filtering  
+GT - number of genotype calls remaining after filtering  
 NA.gt - number of NA genotype calls remaining after filtering  
-Match.abs.site (gt) - absolute number of sites (genotypes) matching between P1 & F2 
+Match.abs.site (gt) - absolute number of sites (genotypes) matching between P1 & F2  
 Miss.abs.site (gt) - absolute number of sites (genotypes) mismatching between P1 & F2  
 Match.prop.site (gt) - proportion of sites (genotypes) matching between P1 & F2  
 Miss.prop.site (gt) - proportion of sites (genotypes) mismatching between P1 & F2  
 quantile - quantile of the distribution of each metric the data set was filtered at  
-QUAL - value of QUAL corresponding to the given quantile of the QUAL distribution in F2 
+QUAL - value of QUAL corresponding to the given quantile of the QUAL distribution in F2  
 P1.QUAL - value of QUAL corresponding to the given quantile of the QUAL distribution in P1  
 
 
