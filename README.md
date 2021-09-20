@@ -9,7 +9,7 @@ rjjasper@ucalgary.ca
 
 If you use or are inspired by code in this repository please cite the following work or contact me about how to cite. 
 
-<link to come here> #### FINISH THIS ####
+<link to come here> # will edit with link #
 
 ---
 
