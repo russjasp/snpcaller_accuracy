@@ -23,7 +23,7 @@ I used R to iteratively filter these 5 data sets to the same number of snps call
 
 # Environment
 
-R version 1.4.1106
+R version 4.0.5
 
 
 # Usage
